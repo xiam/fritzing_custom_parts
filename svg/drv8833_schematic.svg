@@ -1,0 +1,430 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Fritzing (http://www.fritzing.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.2"
+   x="0in"
+   y="0in"
+   width="81.875008"
+   height="79.463997"
+   viewBox="0 0 65.500006 63.571198"
+   id="svg3266"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="drv8833_schematic.svg">
+  <metadata
+     id="metadata3356">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3354" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="701"
+     id="namedview3352"
+     showgrid="true"
+     inkscape:zoom="5.0707071"
+     inkscape:cx="62.502954"
+     inkscape:cy="47.498088"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="schematic"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3358"
+       empspacing="1"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       spacingx="0.05in"
+       spacingy="0.05in"
+       units="in"
+       originx="0.0048611252in"
+       originy="-0.20000002in" />
+  </sodipodi:namedview>
+  <g
+     partID="64300"
+     id="g3268"
+     transform="translate(0.35000101,5.9711999)">
+    <g
+       id="schematic">
+      <rect
+         width="35.12212"
+         x="14.838942"
+         y="0.43893915"
+         class="interior rect"
+         height="56.722118"
+         id="rect3271"
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.8778823;stroke-linecap:round" />
+      <g
+         width="0.699999"
+         x="78.8499"
+         y="28.4499"
+         class="terminal"
+         height="0.699999"
+         id="connector4terminal"
+         style="fill:none;stroke:none" />
+      <g
+         width="0.699999"
+         x="78.8499"
+         y="35.6499"
+         class="terminal"
+         height="0.699999"
+         id="connector3terminal"
+         style="fill:none;stroke:none" />
+      <g
+         width="0.699999"
+         x="78.8499"
+         y="42.8499"
+         class="terminal"
+         height="0.699999"
+         id="connector2terminal"
+         style="fill:none;stroke:none" />
+      <line
+         class="pin"
+         id="connector0pin"
+         y1="3.5999999"
+         x1="-9.8943713e-07"
+         y2="3.5999999"
+         x2="14.4"
+         style="fill:none;stroke:#787878;stroke-width:0.69999897;stroke-linecap:round" />
+      <text
+         x="16.261559"
+         y="4.9568162"
+         class="text"
+         font-size="3.49999"
+         id="text3294"
+         style="font-size:3.20000005px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#8c8c8c;stroke:none;font-family:OCRA;-inkscape-font-specification:OCRA Medium"
+         sodipodi:linespacing="125%">GND</text>
+      <g
+         width="0.699999"
+         x="-0.349999"
+         y="28.4499"
+         class="terminal"
+         height="0.699999"
+         id="connector0terminal"
+         style="fill:none;stroke:none" />
+      <g
+         width="0.699999"
+         x="-0.349999"
+         y="35.6499"
+         class="terminal"
+         height="0.699999"
+         id="connector1terminal"
+         style="fill:none;stroke:none" />
+      <g
+         width="0.699999"
+         x="35.6499"
+         y="71.6499"
+         class="terminal"
+         height="0.699999"
+         id="connector6terminal"
+         style="fill:none;stroke:none" />
+      <g
+         width="0.699999"
+         x="35.6499"
+         y="-0.349999"
+         class="terminal"
+         height="0.699999"
+         id="connector5terminal"
+         style="fill:none;stroke:none" />
+      <text
+         x="40.050098"
+         y="29.649799"
+         class="text"
+         id="label"
+         font-size="4.25001"
+         style="font-size:4.25001001px;text-anchor:middle;fill:#000000;stroke:none;font-family:Droid Sans" />
+      <text
+         x="40.050098"
+         y="34.1833"
+         class="text"
+         id="text3348"
+         font-size="4.25001"
+         style="font-size:4.25001001px;text-anchor:middle;fill:#000000;stroke:none;font-family:Droid Sans" />
+      <text
+         x="23.861286"
+         y="-3.5999999"
+         class="text"
+         id="text3350"
+         font-size="4.25001"
+         style="font-size:3.20000005px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke:none;font-family:OCRA;-inkscape-font-specification:OCRA Medium"
+         sodipodi:linespacing="125%">DRV8833</text>
+      <line
+         class="pin"
+         id="connector0pin-7"
+         y1="10.8"
+         x1="-8.1062319e-07"
+         y2="10.8"
+         x2="14.4"
+         style="fill:none;stroke:#787878;stroke-width:0.69999897;stroke-linecap:round" />
+      <line
+         class="pin"
+         id="connector0pin-2"
+         y1="18"
+         x1="-3.3378601e-07"
+         y2="18"
+         x2="14.4"
+         style="fill:none;stroke:#787878;stroke-width:0.69999897;stroke-linecap:round" />
+      <line
+         class="pin"
+         id="connector0pin-4"
+         y1="25.200001"
+         x1="-6.914139e-07"
+         y2="25.200001"
+         x2="14.4"
+         style="fill:none;stroke:#787878;stroke-width:0.69999897;stroke-linecap:round" />
+      <line
+         class="pin"
+         id="connector0pin-5"
+         y1="32.400002"
+         x1="-9.5367433e-08"
+         y2="32.400002"
+         x2="14.4"
+         style="fill:none;stroke:#787878;stroke-width:0.69999897;stroke-linecap:round" />
+      <line
+         class="pin"
+         id="connector0pin-27"
+         y1="39.599998"
+         x1="-6.1113019e-07"
+         y2="39.599998"
+         x2="14.4"
+         style="fill:none;stroke:#787878;stroke-width:0.69999897;stroke-linecap:round" />
+      <line
+         class="pin"
+         id="connector0pin-9"
+         y1="46.799999"
+         x1="-1.0490418e-06"
+         y2="46.799999"
+         x2="14.4"
+         style="fill:none;stroke:#787878;stroke-width:0.69999897;stroke-linecap:round" />
+      <line
+         class="pin"
+         id="connector0pin-47"
+         y1="54"
+         x1="-1.5258789e-06"
+         y2="54"
+         x2="14.4"
+         style="fill:none;stroke:#787878;stroke-width:0.69999897;stroke-linecap:round" />
+      <text
+         x="15.941594"
+         y="11.811889"
+         class="text"
+         font-size="3.49999"
+         id="text3294-4"
+         style="font-size:3.20000005px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#8c8c8c;stroke:none;font-family:OCRA;-inkscape-font-specification:OCRA Medium"
+         sodipodi:linespacing="125%">VMM</text>
+      <text
+         x="16.138805"
+         y="19.170456"
+         class="text"
+         font-size="3.49999"
+         id="text3294-44"
+         style="font-size:3.20000005px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#8c8c8c;stroke:none;font-family:OCRA;-inkscape-font-specification:OCRA Medium"
+         sodipodi:linespacing="125%">BIN1</text>
+      <text
+         x="16.099363"
+         y="26.32663"
+         class="text"
+         font-size="3.49999"
+         id="text3294-1"
+         style="font-size:3.20000005px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#8c8c8c;stroke:none;font-family:OCRA;-inkscape-font-specification:OCRA Medium"
+         sodipodi:linespacing="125%">BIN2</text>
+      <text
+         x="16.4149"
+         y="33.520164"
+         class="text"
+         font-size="3.49999"
+         id="text3294-0"
+         style="font-size:3.20000005px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#8c8c8c;stroke:none;font-family:OCRA;-inkscape-font-specification:OCRA Medium"
+         sodipodi:linespacing="125%">AIN2</text>
+      <text
+         x="16.296574"
+         y="40.619766"
+         class="text"
+         font-size="3.49999"
+         id="text3294-6"
+         style="font-size:3.20000005px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#8c8c8c;stroke:none;font-family:OCRA;-inkscape-font-specification:OCRA Medium"
+         sodipodi:linespacing="125%">AIN1</text>
+      <text
+         x="16.099361"
+         y="48.040634"
+         class="text"
+         font-size="3.49999"
+         id="text3294-2"
+         style="font-size:3.20000005px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#8c8c8c;stroke:none;font-family:OCRA;-inkscape-font-specification:OCRA Medium"
+         sodipodi:linespacing="125%">nSLEEP</text>
+      <text
+         x="16.232874"
+         y="54.843361"
+         class="text"
+         font-size="3.49999"
+         id="text3294-7"
+         style="font-size:3.20000005px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#8c8c8c;stroke:none;font-family:OCRA;-inkscape-font-specification:OCRA Medium"
+         sodipodi:linespacing="125%">nFAULT</text>
+      <text
+         x="41.56913"
+         y="4.8700562"
+         class="text"
+         font-size="3.49999"
+         id="text3294-8"
+         style="font-size:3.20000005px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#8c8c8c;stroke:none;font-family:OCRA;-inkscape-font-specification:OCRA Medium"
+         sodipodi:linespacing="125%">GND</text>
+      <text
+         x="40.947968"
+         y="11.811889"
+         class="text"
+         font-size="3.49999"
+         id="text3294-65"
+         style="font-size:3.20000005px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#8c8c8c;stroke:none;font-family:OCRA;-inkscape-font-specification:OCRA Medium"
+         sodipodi:linespacing="125%" />
+      <text
+         x="41.421276"
+         y="11.88072"
+         class="text"
+         font-size="3.49999"
+         id="text3294-06"
+         style="font-size:3.20000005px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#8c8c8c;stroke:none;font-family:OCRA;-inkscape-font-specification:OCRA Medium"
+         sodipodi:linespacing="125%">VIN</text>
+      <text
+         x="37.043186"
+         y="19.108702"
+         class="text"
+         font-size="3.49999"
+         id="text3294-46"
+         style="font-size:3.20000005px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#8c8c8c;stroke:none;font-family:OCRA;-inkscape-font-specification:OCRA Medium"
+         sodipodi:linespacing="125%">BOUT1</text>
+      <text
+         x="36.76709"
+         y="26.309406"
+         class="text"
+         font-size="3.49999"
+         id="text3294-5"
+         style="font-size:3.20000005px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#8c8c8c;stroke:none;font-family:OCRA;-inkscape-font-specification:OCRA Medium"
+         sodipodi:linespacing="125%">BOUT2</text>
+      <text
+         x="36.846817"
+         y="33.401836"
+         class="text"
+         font-size="3.49999"
+         id="text3294-83"
+         style="font-size:3.20000005px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#8c8c8c;stroke:none;font-family:OCRA;-inkscape-font-specification:OCRA Medium"
+         sodipodi:linespacing="125%">AOUT2</text>
+      <text
+         x="36.964302"
+         y="55.198341"
+         class="text"
+         font-size="3.49999"
+         id="text3294-12"
+         style="font-size:3.20000005px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#8c8c8c;stroke:none;font-family:OCRA;-inkscape-font-specification:OCRA Medium"
+         sodipodi:linespacing="125%">BISEN</text>
+      <text
+         x="37.130085"
+         y="40.759605"
+         class="text"
+         font-size="3.49999"
+         id="text3294-56"
+         style="font-size:3.20000005px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#8c8c8c;stroke:none;font-family:OCRA;-inkscape-font-specification:OCRA Medium"
+         sodipodi:linespacing="125%">AOUT1</text>
+      <text
+         x="36.839043"
+         y="48.019855"
+         class="text"
+         font-size="3.49999"
+         id="text3294-76"
+         style="font-size:3.20000005px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#8c8c8c;stroke:none;font-family:OCRA;-inkscape-font-specification:OCRA Medium"
+         sodipodi:linespacing="125%">AISEN</text>
+    </g>
+    <line
+       class="pin"
+       id="connector0pin-24"
+       y1="3.5999999"
+       x1="50.400002"
+       y2="3.5999999"
+       x2="64.800003"
+       style="fill:none;stroke:#787878;stroke-width:0.69999897;stroke-linecap:round" />
+    <line
+       class="pin"
+       id="connector0pin-6"
+       y1="10.8"
+       x1="50.399994"
+       y2="10.8"
+       x2="64.800003"
+       style="fill:none;stroke:#787878;stroke-width:0.69999897;stroke-linecap:round" />
+    <line
+       class="pin"
+       id="connector0pin-22"
+       y1="18"
+       x1="50.399998"
+       y2="18"
+       x2="64.800003"
+       style="fill:none;stroke:#787878;stroke-width:0.69999897;stroke-linecap:round" />
+    <line
+       class="pin"
+       id="connector0pin-55"
+       y1="25.200001"
+       x1="50.400002"
+       y2="25.200001"
+       x2="64.800003"
+       style="fill:none;stroke:#787878;stroke-width:0.69999897;stroke-linecap:round" />
+    <line
+       class="pin"
+       id="connector0pin-0"
+       y1="32.400002"
+       x1="50.400002"
+       y2="32.400002"
+       x2="64.800003"
+       style="fill:none;stroke:#787878;stroke-width:0.69999897;stroke-linecap:round" />
+    <line
+       class="pin"
+       id="connector0pin-76"
+       y1="39.599998"
+       x1="50.400002"
+       y2="39.599998"
+       x2="64.800003"
+       style="fill:none;stroke:#787878;stroke-width:0.69999897;stroke-linecap:round" />
+    <line
+       class="pin"
+       id="connector0pin-67"
+       y1="46.799999"
+       x1="50.400002"
+       y2="46.799999"
+       x2="64.799995"
+       style="fill:none;stroke:#787878;stroke-width:0.69999897;stroke-linecap:round" />
+    <line
+       class="pin"
+       id="connector0pin-66"
+       y1="54"
+       x1="50.400002"
+       y2="54"
+       x2="64.800003"
+       style="fill:none;stroke:#787878;stroke-width:0.69999897;stroke-linecap:round" />
+  </g>
+</svg>
