@@ -2,6 +2,12 @@
 
 Some missing parts of chips and stuff I use on my [Fritzing][1] diagrams.
 
+## Contents
+
+### DRV8833
+
+![DRV8833](./png/drv8833.png)
+
 ## License
 
 > Copyright (c) 2014 José Carlos Nieto, https://menteslibres.net/xiam
